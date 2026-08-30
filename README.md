@@ -2,7 +2,7 @@
 
 A high-performance, dark-themed Enterprise Cyber Security & Cloud Infrastructure Landing Page featuring immersive 3D visualisations.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-View_Site-00f2fe?style=for-the-badge)](https://demo-project-4-nine.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-View_Site-00f2fe?style=for-the-badge)](https://demo-project-4-nysor.vercel.app/)
 
 ---
 
