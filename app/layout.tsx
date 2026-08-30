@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   title: 'AEGIS // Next-Gen Cyber Security & Cloud Infrastructure',
   description:
     'Enterprise-grade Zero-Trust security, autonomous AI threat intelligence, and high-performance multi-cloud architecture for the modern enterprise.',
-  generator: 'v0.app',
+  generator: 'NYSOR',
 }
 
 export const viewport: Viewport = {
